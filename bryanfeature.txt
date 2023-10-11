@@ -6,13 +6,6 @@ hello people
 goodbye
 difference2
 hello people
-<<<<<<< HEAD
 Elena's branch
-=======
 hbuhb uhbuhbuhby
 bryans branch
-<<<<<<< HEAD
-tryna create conflict
-=======
->>>>>>> 6a05a060fa7ce5a7dae5e2123464341a972cb86a
->>>>>>> 3073b5f59fa05729c93d10fbd39d5286fc045d97
